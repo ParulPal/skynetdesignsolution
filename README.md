@@ -1,1 +1,1 @@
-# skynetdesignsolution
+# freehost
